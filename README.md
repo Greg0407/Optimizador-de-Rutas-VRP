@@ -780,12 +780,10 @@ const RouteOptimizer = () => {
 
 export default RouteOptimizer
 
-/docs: Documentación técnica profunda del algoritmo y manual de usuario.
+/docs: plantillas (pvd y usuarios.xlsx)
 
-/data: Plantillas de ejemplo para pruebas de carga.
+/data: Resultados de rutas
 
 👨‍💻 Autor
 Gregory Antonio Abreu Marte Ingeniero de Software / Epsecialista IT 
 
-📄 Licencia
-Este proyecto está bajo la Licencia MIT - Mira el archivo LICENSE para más detalles.
