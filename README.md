@@ -9,7 +9,12 @@
 Esta aplicación es una solución avanzada de **automatización logística** diseñada para resolver el problema de optimización de rutas de vehículos (VRP - Vehicle Routing Problem). Permite a las empresas transformar datos brutos de puntos de visita en rutas inteligentes, minimizando tiempos de traslado y costos operativos mediante algoritmos de inteligencia artificial heurística.
 
 **Ideal para:** Equipos de ventas, visitadores médicos, logística de última milla y supervisión de campo.
+## 📸 Vista Previa
+![Pantalla Principal](./Captura%20de%20pantalla%202025-10-02%20142416.jpg)
+*Interfaz de usuario moderna y minimalista centrada en la carga de datos.*
 
+![Resultados](./Captura%20de%20pantalla%202025-10-02%20142524.jpg)
+*Visualización de rutas optimizadas con métricas de tiempo y distancia.*
 ---
 
 ## ✨ Características Principales
